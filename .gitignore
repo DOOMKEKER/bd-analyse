@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.csv
 # Distribution / packaging
 .Python
 build/
@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+lab0/Python_Introduction_Part2_Theory.ipynb
+
+lab0/Python_Introduction_Part1_Theory.ipynb
+
+lab1/.vscode/settings.json
+
+lab2/Лаба 2 (2).ipynb
